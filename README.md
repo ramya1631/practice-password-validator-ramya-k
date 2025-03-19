@@ -1,1 +1,1 @@
-# -practice-password-validator-ramya-k
+# practice-password-validator-ramya-k
